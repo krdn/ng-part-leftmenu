@@ -11,7 +11,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4205/`. The app w
 
 dev 서버에`ng serve '를 실행하십시오. `http : // localhost : 4205 /`로 이동하십시오. 소스 파일을 변경하면 앱이 자동으로 다시로드됩니다.
 
-초기 URL : http://localhost:4204/guide/quickstart
+초기 URL : http://localhost:4205/guide/quickstart
 
 ## Code scaffolding
 
